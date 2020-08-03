@@ -2,3 +2,7 @@ main(){
 	int i=10;
 	
 }
+
+test(){
+	sysout("abcd");
+}
